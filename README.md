@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my github page
 
-Here I will uploadingall my proyects
+Here I will uploading all my proyects
 <!--
 **juliom86/juliom86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
